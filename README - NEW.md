@@ -13,3 +13,4 @@ I mainly like to code in LUA/Java, but will work in others if needed
 
 ### Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbooseYou&show_icons=true&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbooseYou&stats_format=bytes" /
