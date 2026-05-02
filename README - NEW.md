@@ -12,4 +12,4 @@ I mainly like to code in LUA/Java, but will work in others if needed
 - **Discord:** `AbooseYou`
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AbooseYou&show_icons=true&theme=gruvbox" alt="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbooseYou&show_icons=true&theme=gruvbox" />
