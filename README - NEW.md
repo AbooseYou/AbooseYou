@@ -12,9 +12,6 @@ I mainly like to code in LUA/Java, but will work in others if needed
 - **Discord:** `AbooseYou`
 
 ### Github Stats
-<a href="https://github.com/AbooseYou">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AbooseYou&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/AbooseYou">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbooseYou&layout=compact&theme=radical" />
-</a>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbooseYou&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbooseYou&layout=compact&theme=tokyonight)
