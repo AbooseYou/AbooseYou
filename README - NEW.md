@@ -12,6 +12,7 @@ I mainly like to code in LUA/Java, but will work in others if needed
 - **Discord:** `AbooseYou`
 
 ### Github Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbooseYou&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbooseYou&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbooseYou&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbooseYou&layout=compact&theme=radical" />
+</p>
