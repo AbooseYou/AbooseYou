@@ -12,5 +12,4 @@ I mainly like to code in LUA/Java, but will work in others if needed
 - **Discord:** `AbooseYou`
 
 ### Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbooseYou&count_private=true&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbooseYou&show_icons=true&theme=radical" />
+![AbooseYou's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbooseYou&show_icons=true&theme=gruvbox)
