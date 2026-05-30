@@ -2,7 +2,7 @@
 
 Full-stack Minecraft developer specializing in Java and Lua. I build custom plugins, server management tools, and game automation scripts.
 
----
+----
 
 ### What I'm Working On
 
