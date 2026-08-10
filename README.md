@@ -34,7 +34,6 @@ Building robust backend systems for Minecraft networks, including:
 - Cross-server communication via Redis pub/sub
 - Player data synchronization with MongoDB
 - Custom command frameworks for BungeeCord/Velocity
-- Automation scripts for FFXIV endgame content
 
 ---
 
