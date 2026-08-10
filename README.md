@@ -7,16 +7,12 @@ Full-stack Minecraft developer specializing in Java and Lua. I build custom plug
 ### What I'm Working On
 
 - **Glitch Plugins** - Custom Minecraft plugins for Spigot/BungeeCord servers
-  - `GlitchLunar` - A Lunar Client Apollo plugin for the Glitch/Hyskies servers.
-  - `GlitchManager` - BungeeCord server management and proxy utilities
-  - `GlitchBCMD` - BungeeCord command framework
+  - `GlitchCore` - Provides various utilities and features for server management, player communication, and staff tools.
+  - `GlitchNotCore` - Providing anti-duplication detection, bounty system, NBT data viewing, and kill tracking functionality.
+  - `GlitchDiscord` - 2FA verification, Discord-Minecraft account linking, and staff communication tools.
   - `GlitchPlugin` - Main network plugin for glitch servers
 
 - **Hyskies** - A Minecraft server focused on community and creative gameplay ([Join Discord](https://discord.gg/fZ5paGkpny))
-
-- **XIV Automation Scripts** - FFXIV automation scripts for Something Need Doing (SND) and AutoDuty
-  - Gathering scripts, dungeon navigation, GC turn-ins, and quality-of-life tools
-
 - **Private Plugins** - Custom Minecraft plugins
 
 ---
@@ -28,7 +24,7 @@ Full-stack Minecraft developer specializing in Java and Lua. I build custom plug
 | **Languages** | Java (8-21), Lua, Kotlin |
 | **Minecraft** | Spigot API, BungeeCord, ProtocolLib, PlaceholderAPI |
 | **Databases** | MongoDB, Redis, MySQL |
-| **Tools** | Maven, Gradle, IntelliJ IDEA |
+| **Tools** | Maven, Gradle, VSCode |
 
 ---
 
